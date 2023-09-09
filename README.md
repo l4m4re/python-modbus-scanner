@@ -1,3 +1,9 @@
+# Hack of modbus-scanner
+
+Just a hack of the original for the specific purpose of scanning
+the registers of my Growatt inverter. Probably of not much
+use to anyone else.
+
 # modbus-scanner
 Scans a modbus for any devices
 - using Python 3 and lib minimalmodbus
